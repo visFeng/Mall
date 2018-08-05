@@ -1,6 +1,7 @@
 # Mall
 Vue+express
 git
+
 坑一：
 vue-lazyload插件用法
 需要在main.js引用
